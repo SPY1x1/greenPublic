@@ -17,7 +17,7 @@ Ok id public cloner
 - rm -rf greenPublic
 - git clone https://github.com/SPY1x1/greenPublic
 - cd greenPublic
-- python spy.py
+- python SpY.py
 
 # Note 
 
