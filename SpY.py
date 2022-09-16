@@ -16,7 +16,7 @@ bit = platform.architecture()[0]
  
 if bit == "64bit":
  
-        from SpY64 import _SpyX___
+        from Proxnx import _SpyX___
  
         _SpyX___()
  
